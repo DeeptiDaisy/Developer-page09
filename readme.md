@@ -21,7 +21,7 @@
    - Downlod section 
     - footer section
 
-    - This is quite a big html page
+     This is quite a big html page
 
 
 > CSS
@@ -32,7 +32,7 @@ In style.css file i write all the code for the styling .
 
 - i have used different selectors & classes to target the elements and style them as per the design.
 
-- Here i specifically used *clip-path property to style an image which is worth practice.
+- Here i specifically used *clip-path property* to style an image which is worth practice.
 
 > Images Folder
 
