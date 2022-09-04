@@ -33,7 +33,13 @@ In style.css file i write all the code for the styling .
 - i have used different selectors & classes to target the elements and style them as per the design.
 
 - Here i specifically used *clip-path property* to style an image which is worth practice.
+ 
+
 
 > Images Folder
 
 - It contains all the project images & icons .
+
+
+![image](https://user-images.githubusercontent.com/109961309/188323988-308e6a29-daad-45fe-9ad6-b2c761c4f142.png)
+
