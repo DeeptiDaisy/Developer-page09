@@ -73,7 +73,9 @@ nav>svg{
   margin-top:35px;
   margin-left: 50px;
 }
-
+ i{
+  visibility: hidden;
+}
 .companies{
   margin-top:25px;
   margin-left: 40px;
@@ -282,4 +284,51 @@ nav>svg{
 }
 .footer-logos{
   margin-left: 5px;
+}
+@media screen and (max-width: 768px) {
+  nav a{
+    display: none;
+  }
+  i{
+    visibility: visible;
+    font-size: 20px;
+  }
+  .logo{
+    margin-top: 10px;
+    margin-left: 5px;
+  }
+  .header-text{
+    margin-top:450px;
+    margin-left: 50px;
+    color:#fff;
+    background-color: blue;
+  }
+  .companies{
+    margin-top:340px;
+    margin-left: 10px;
+  }
+  .blog-cards{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .blog-card{
+    display: flex;
+    flex-direction: column;
+  }
+  .faq-section{
+    display: flex;
+    flex-direction: column;
+    margin-top: 0px;
+  }
+  .download-section{
+    display: flex;
+    flex-direction: column;
+    margin-top:0px;
+    margin-left:5px
+  }
+  .download-email{
+    margin-left:50px;
+    margin-top: 0px;
+  }
 }
