@@ -43,3 +43,9 @@ In style.css file i write all the code for the styling .
 
 ![image](https://user-images.githubusercontent.com/109961309/188323988-308e6a29-daad-45fe-9ad6-b2c761c4f142.png)
 
+
+In smaller screen it will
+
+![image](https://user-images.githubusercontent.com/109961309/188844817-7ffb7ada-a3d4-4389-a823-aa7452881143.png)
+
+
